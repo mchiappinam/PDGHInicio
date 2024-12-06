@@ -1,0 +1,9 @@
+name: PDGHInicio
+main: me.mchiappinam.pdghinicio.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/ & https://hostload.com.br/
+commands:
+   textura:
+      description: Info.
+      usage: /<command>
